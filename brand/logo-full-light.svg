@@ -1,0 +1,28 @@
+<svg width="286" height="52" viewBox="0 0 286 52" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Ronald Zamora Studio Logo Light</title>
+  <desc id="desc">A futuristic hexagonal orbit symbol with a premium gradient and dark wordmark for light backgrounds.</desc>
+  <defs>
+    <linearGradient id="markGradientLight" x1="8" y1="6" x2="44" y2="44" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#009FBE"/>
+      <stop offset="0.55" stop-color="#00C57B"/>
+      <stop offset="1" stop-color="#E96A3A"/>
+    </linearGradient>
+    <linearGradient id="wordGradientLight" x1="72" y1="12" x2="250" y2="40" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0C203D"/>
+      <stop offset="1" stop-color="#193862"/>
+    </linearGradient>
+  </defs>
+
+  <g>
+    <path d="M26 4L42.4545 13.5V32.5L26 42L9.54552 32.5V13.5L26 4Z" stroke="url(#markGradientLight)" stroke-width="3"/>
+    <path d="M26 11L36.7224 17.25V28.75L26 35L15.2776 28.75V17.25L26 11Z" fill="#F4F9FF" stroke="url(#markGradientLight)" stroke-width="1.8"/>
+    <circle cx="26" cy="23" r="3.2" fill="url(#markGradientLight)"/>
+    <path d="M38.5 10.2L44.2 16" stroke="#009FBE" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="44.2" cy="16" r="2" fill="#009FBE"/>
+  </g>
+
+  <g fill="url(#wordGradientLight)">
+    <text x="60" y="24" font-family="Sora, Space Grotesk, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="0.02em">RONALD ZAMORA</text>
+    <text x="60" y="41" font-family="Sora, Space Grotesk, Segoe UI, Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="0.18em" fill="#315377">IMMERSIVE DIGITAL STUDIO</text>
+  </g>
+</svg>

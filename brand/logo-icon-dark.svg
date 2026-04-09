@@ -1,0 +1,18 @@
+<svg width="52" height="52" viewBox="0 0 52 52" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Ronald Zamora Studio Icon Dark</title>
+  <desc id="desc">Futuristic hexagonal orbit icon with premium gradient.</desc>
+  <defs>
+    <linearGradient id="iconGradientDark" x1="8" y1="6" x2="44" y2="44" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00D9FF"/>
+      <stop offset="0.55" stop-color="#00FF9A"/>
+      <stop offset="1" stop-color="#FF8A56"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="50" height="50" rx="12" fill="#08122C" stroke="#0E2A4A"/>
+  <path d="M26 8L40.7224 16.5V33.5L26 42L11.2776 33.5V16.5L26 8Z" stroke="url(#iconGradientDark)" stroke-width="2.6"/>
+  <path d="M26 14L35.5263 19.5V30.5L26 36L16.4737 30.5V19.5L26 14Z" fill="#0A132F" stroke="url(#iconGradientDark)" stroke-width="1.6"/>
+  <circle cx="26" cy="25" r="3" fill="url(#iconGradientDark)"/>
+  <path d="M37.4 13.6L42.2 18.4" stroke="#00D9FF" stroke-width="1.8" stroke-linecap="round"/>
+  <circle cx="42.2" cy="18.4" r="1.8" fill="#00D9FF"/>
+</svg>
